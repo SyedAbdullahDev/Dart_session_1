@@ -1,0 +1,7 @@
+1- Datatypes
+2- loops
+3- conditions
+4- functions
+5- class
+6- oops
+7- test
